@@ -1,0 +1,11 @@
+console.log("Comandos:");
+    	console.log("  h|help - Muestra esta ayuda.");
+    	console.log("  list - Listar los quizzes existentes.");
+    	console.log("  show <id> - Muestra la pregunta y la respuesta del quiz indicado.");
+    	console.log("  add - Añadir un nuevo quiz interactivamente.");
+    	console.log("  delete <id> - Borrar el quiz indicado.");
+    	console.log("  edit <id> - Editar el quiz indicado.");
+    	console.log("  test <id> - Probar el quiz indicado");
+    	console.log("  p|play - Jugar a preguntar aleatoriamente todos los quizzes.");
+    	console.log("  credits - Créditos.");
+    	console.log("  q|quit - Salir del programa.");
